@@ -96,7 +96,4 @@ if nuber > 55:
 	print("yes is bigger")
 else:
 	print("no is not bigger")
-
-
-sss = 88
-ll
+jgjgjhgj
