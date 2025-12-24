@@ -23,3 +23,10 @@ git push -u origin main
 .remove()	Remove an item from the list based on the value of the item
 .reverse()	Reverses the list in place
 .sort()	    Sorts the list in place
+
+
+# short cuts 
+Ctrl + D → selects the next occurrence
+Ctrl + Shift + L → selects all occurrences
+
+f
