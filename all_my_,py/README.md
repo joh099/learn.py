@@ -29,4 +29,3 @@ git push -u origin main
 Ctrl + D → selects the next occurrence
 Ctrl + Shift + L → selects all occurrences
 
-f

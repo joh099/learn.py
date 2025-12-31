@@ -18,7 +18,7 @@ print(vars(bobs_burgers))
 
 PAPA_JOHN = Restaurant()
 
-PAPA_JOHN.name = 'PAPA JOHN'
+PAPA_JOHN.name = 'PAPA_JOHN'
 PAPA_JOHN.category = 'PIZZA'
 PAPA_JOHN.rating = 4.0
 PAPA_JOHN.delivery = True
